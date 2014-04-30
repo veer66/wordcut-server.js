@@ -1,0 +1,15 @@
+{
+  "name": "wordcut-server",
+  "description": "Wordcut server",
+  "version": "0.0.1",
+  "author": {
+    "name": "Vee Satayamas",
+    "email": "vsatayamas@gmail.com"
+  },
+  "dependencies": {
+    "express": "*",
+    "busboy": "*",
+    "nconf": "*",
+    "wordcut": "*"
+  }
+}
